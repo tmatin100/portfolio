@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 4. Start the Flask development server:
 
- ```python flask run
+ ```python
+ flask run
 ```
 
 5. Usage
