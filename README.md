@@ -24,7 +24,7 @@ Follow these steps to set up and run the application:
 
 
   ```bash
-   on Window: venv\Scripts\activate )
+   on Windows: venv\Scripts\activate )
    ```
 
  ```python
