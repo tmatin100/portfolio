@@ -7,7 +7,7 @@ Follow these steps to set up and run the application:
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/your-flask-app.git
+   git clone https://github.com/tmatin100/portfolio.git
 
 2. Create a virtual environment and install dependencies:
    
