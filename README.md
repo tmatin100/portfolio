@@ -12,8 +12,10 @@ Follow these steps to set up and run the application:
 2. Create a virtual environment and install dependencies:
    
      cd portfolio
-     python -m venv venv
-     source venv/bin/activate 
+
+      python -m venv venv
+
+      source venv/bin/activate 
 
      ( Windows: venv\Scripts\activate )
   
