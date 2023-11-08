@@ -19,7 +19,7 @@ Follow these steps to set up and run the application:
 
      ( Windows: venv\Scripts\activate )
   
-     #pip install -r requirements.txt
+     pip install -r requirements.txt
 
 4. Start the Flask development server:
    
