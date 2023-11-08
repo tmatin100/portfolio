@@ -13,23 +13,22 @@ Follow these steps to set up and run the application:
 ```
       cd portfolio
 ```
-```
       python -m venv venv
 ```
       source venv/bin/activate 
-```
+
     On Windows
 ```
     venv\Scripts\activate )
-```
+
 ```
      pip install -r requirements.txt
-```
 
 4. Start the Flask development server:
+
  ```
    flask run
-```
+
 5. Usage
      To use the application, navigate to http://localhost:5000 in your web browser.
 
