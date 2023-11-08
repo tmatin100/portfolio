@@ -15,8 +15,8 @@ Follow these steps to set up and run the application:
   python -m venv venv
   source venv/bin/activate 
   
-  #On Windows, 
-  venv\Scripts\activate`
+     #On Windows, 
+     venv\Scripts\activate`
   
   pip install -r requirements.txt
 
@@ -25,6 +25,6 @@ Follow these steps to set up and run the application:
    flask run
 
 4. Usage
-  To use the application, navigate to http://localhost:5000 in your web browser.
+     To use the application, navigate to http://localhost:5000 in your web browser.
 
-  You can also access the API at http://localhost:5000/api.
+     You can also access the API at http://localhost:5000/api.
