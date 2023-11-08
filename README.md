@@ -13,7 +13,11 @@ Follow these steps to set up and run the application:
 
   cd your-flask-app
   python -m venv venv
-  source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+  source venv/bin/activate 
+  
+  # On Windows, use `
+  venv\Scripts\activate`
+  
   pip install -r requirements.txt
 
 3. Start the Flask development server:
