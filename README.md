@@ -22,9 +22,9 @@ Follow these steps to set up and run the application:
    source venv/bin/activate
    ```
 
-On Windows
+
   ```bash
-   venv\Scripts\activate )
+   on Window: venv\Scripts\activate )
    ```
 
  ```python
