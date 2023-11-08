@@ -10,12 +10,12 @@ Follow these steps to set up and run the application:
    git clone https://github.com/your-username/your-flask-app.git
 
 2. Create a virtual environment and install dependencies:
-
-  cd your-flask-app
+   
+  cd portfolio
   python -m venv venv
   source venv/bin/activate 
   
-     #On Windows, 
+     #On Windows: 
      venv\Scripts\activate`
   
   pip install -r requirements.txt
