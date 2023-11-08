@@ -24,13 +24,13 @@ Follow these steps to set up and run the application:
 
 On Windows
 
-   ```
-   venv\Scripts\activate )
-   ```
+      ```bash
+      venv\Scripts\activate )
+      ```
 
-   ```python
-   pip install -r requirements.txt
-   ```
+      ```python
+      pip install -r requirements.txt
+      ```
 
 4. Start the Flask development server:
 
