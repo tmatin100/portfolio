@@ -15,7 +15,7 @@ Follow these steps to set up and run the application:
      python -m venv venv
      source venv/bin/activate 
 
-     On Windows: venv\Scripts\activate
+     ( Windows: venv\Scripts\activate )
   
      pip install -r requirements.txt
 
