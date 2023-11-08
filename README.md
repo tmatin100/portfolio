@@ -10,24 +10,18 @@ Follow these steps to set up and run the application:
    git clone https://github.com/tmatin100/portfolio.git
 
 2. Create a virtual environment and install dependencies:
-```
-      cd portfolio
-```
-      python -m venv venv
-```
-      source venv/bin/activate 
+```cd portfolio
+```python -m venv venv
+```source venv/bin/activate 
 
-    On Windows
-```
-    venv\Scripts\activate )
+# On Windows
+```venv\Scripts\activate )
 
-```
-     pip install -r requirements.txt
+```pip install -r requirements.txt
 
 4. Start the Flask development server:
 
- ```
-   flask run
+ ```flask run
 
 5. Usage
      To use the application, navigate to http://localhost:5000 in your web browser.
