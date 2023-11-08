@@ -10,13 +10,13 @@ Follow these steps to set up and run the application:
    git clone https://github.com/tmatin100/portfolio.git
 
 2. Create a virtual environment and install dependencies:
-   
+   ```
       cd portfolio
 
       python -m venv venv
 
       source venv/bin/activate 
-
+```
      ( Windows: venv\Scripts\activate )
   
      pip install -r requirements.txt
